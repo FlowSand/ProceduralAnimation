@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-//DEL
+
 public struct FloatRect
 {
     public enum CornerLabel

@@ -1,4 +1,4 @@
-﻿//DEL
+﻿
 //功能：游戏功能模块虚拟进程
 
 public abstract class MainLoopProcess

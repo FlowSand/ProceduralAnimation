@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-//DEL
+
 public struct IntVector2
 {
     public int x;

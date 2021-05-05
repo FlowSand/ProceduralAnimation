@@ -1,4 +1,4 @@
-﻿//DEL
+﻿
 public class UpdatableAndDeletable
 {
     public bool evenUpdate;

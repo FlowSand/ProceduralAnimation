@@ -1,4 +1,4 @@
-﻿//DEL
+﻿
 //功能：通用型BodyPart
 
 public class GenericBodyPart : BodyPart

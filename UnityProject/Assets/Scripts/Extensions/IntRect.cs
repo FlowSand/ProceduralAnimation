@@ -1,5 +1,5 @@
 ﻿using System;
-//DEL
+
 public struct IntRect
 {
     public int left;

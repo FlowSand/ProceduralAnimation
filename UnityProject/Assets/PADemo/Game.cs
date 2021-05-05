@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using PASystem;
 using System.IO;
-//DEL
+
 //功能：测试初始化Demo场景
 
 public class Game : MainLoopProcess

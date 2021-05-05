@@ -191,7 +191,7 @@ public class RXColor
 		
 		float minChan = Mathf.Min(r, g, b);			//Min. value of RGB
 		float maxChan = Mathf.Max(r, g, b);			//Max. value of RGB
-		float deltaMax = maxChan - minChan;         //Delta RGB value
+		float deltaMax = maxChan - minChan;        
 		
 		c.l = (maxChan + minChan) * 0.5f;
 		

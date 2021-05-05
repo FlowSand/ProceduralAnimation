@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-//DEL
+
 public class CosmeticSprite : UpdatableAndDeletable, IDrawable
 {
     public Vector2 pos;     //当前位置
