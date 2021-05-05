@@ -1,0 +1,156 @@
+{"frames": {
+
+"Banana.png":
+{
+	"frame": {"x":451,"y":903,"w":200,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":10,"w":200,"h":108},
+	"sourceSize": {"w":240,"h":140}
+},
+"CloseButton_down.png":
+{
+	"frame": {"x":917,"y":1073,"w":104,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":106},
+	"sourceSize": {"w":108,"h":108}
+},
+"CloseButton_normal.png":
+{
+	"frame": {"x":917,"y":963,"w":104,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":106},
+	"sourceSize": {"w":108,"h":108}
+},
+"CloseButton_over.png":
+{
+	"frame": {"x":917,"y":853,"w":104,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":106},
+	"sourceSize": {"w":108,"h":108}
+},
+"FranchiseFont_Scale2.png":
+{
+	"frame": {"x":3,"y":3,"w":500,"h":362},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":500,"h":362},
+	"sourceSize": {"w":512,"h":512}
+},
+"Monkey_0.png":
+{
+	"frame": {"x":227,"y":655,"w":220,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":220,"h":284},
+	"sourceSize": {"w":260,"h":300}
+},
+"Monkey_1.png":
+{
+	"frame": {"x":3,"y":655,"w":220,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":220,"h":284},
+	"sourceSize": {"w":260,"h":300}
+},
+"Monkey_2.png":
+{
+	"frame": {"x":691,"y":853,"w":222,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":2,"w":222,"h":282},
+	"sourceSize": {"w":260,"h":300}
+},
+"Monkey_3.png":
+{
+	"frame": {"x":463,"y":617,"w":224,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":2,"w":224,"h":282},
+	"sourceSize": {"w":260,"h":300}
+},
+"Monkey_4.png":
+{
+	"frame": {"x":233,"y":369,"w":226,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":2,"w":226,"h":282},
+	"sourceSize": {"w":260,"h":300}
+},
+"Monkey_5.png":
+{
+	"frame": {"x":3,"y":369,"w":226,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":2,"w":226,"h":282},
+	"sourceSize": {"w":260,"h":300}
+},
+"Monkey_6.png":
+{
+	"frame": {"x":739,"y":569,"w":228,"h":280},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":228,"h":280},
+	"sourceSize": {"w":260,"h":300}
+},
+"Monkey_7.png":
+{
+	"frame": {"x":507,"y":333,"w":228,"h":280},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":228,"h":280},
+	"sourceSize": {"w":260,"h":300}
+},
+"Monkey_8.png":
+{
+	"frame": {"x":775,"y":285,"w":230,"h":280},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":4,"w":230,"h":280},
+	"sourceSize": {"w":260,"h":300}
+},
+"Monkey_9.png":
+{
+	"frame": {"x":775,"y":3,"w":232,"h":278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":232,"h":278},
+	"sourceSize": {"w":260,"h":300}
+},
+"YellowButton_down.png":
+{
+	"frame": {"x":507,"y":223,"w":264,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":106},
+	"sourceSize": {"w":268,"h":108}
+},
+"YellowButton_normal.png":
+{
+	"frame": {"x":507,"y":113,"w":264,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":106},
+	"sourceSize": {"w":268,"h":108}
+},
+"YellowButton_over.png":
+{
+	"frame": {"x":507,"y":3,"w":264,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":106},
+	"sourceSize": {"w":268,"h":108}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "BananaGameAtlas_Scale2.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6e4f456152a68fd19c6e906d4a9f6a4a$"
+}
+}
